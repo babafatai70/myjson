@@ -6,4 +6,13 @@
         {"id":2 , "name": "john"},
         {"id":3 , "name": "ayo"}
       ]
+       
+       "comments":
+       [
+        {"id":0 , "name": "amina", "statement":"i am very happy"},
+        {"id":1 , "name": "kunle", "statement":"i want to eat pizza"},
+        {"id":2 , "name": "john", "statement":"Oh boy thats nice"},
+        {"id":3 , "name": "ayo", "statement":"Got to go, bye bye"},
+        {"id":4 , "name": "amina", "statement":"okay thats good"}
+      ]
 }
