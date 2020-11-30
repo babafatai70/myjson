@@ -1,11 +1,9 @@
 {
-posts:[
+"posts":
+       [
         {"id":0 , "name": "amina"},
         {"id":1 , "name": "kunle"},
         {"id":2 , "name": "john"},
         {"id":3 , "name": "ayo"}
       ]
-
-
-
 }
